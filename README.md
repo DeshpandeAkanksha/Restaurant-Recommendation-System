@@ -1,4 +1,4 @@
-# SampleWebApp
+# Restaurant Recommendation System
 Restaurant Recommender is a useful system for day to day life. People often visit new places, different
 cities and they do not know suitable place to eat.
 In this recommendation system, I provide list of restaurants that are similar to the given restaurant.
